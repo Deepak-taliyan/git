@@ -1,2 +1,4 @@
 hi b.txt
 is modified
+
+in other branch
