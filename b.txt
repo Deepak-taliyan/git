@@ -1,2 +1,3 @@
 hi b.txt
 is modified
+merge
