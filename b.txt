@@ -1,3 +1,8 @@
 hi b.txt
 is modified
+ dev2
+h
+in other branch
+
 merge
+devops
