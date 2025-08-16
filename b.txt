@@ -1,4 +1,4 @@
 hi b.txt
 is modified
-
+h
 in other branch
