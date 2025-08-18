@@ -1,6 +1,7 @@
 hi b.txt
 is modified
  dev2
+lsjdlsjdlsjdls
 h
 in other branch
 
