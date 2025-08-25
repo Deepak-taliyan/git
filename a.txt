@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-hi a.txt from dev2
-=======
 hi this is a.txt from devops
->>>>>>> devops
 
