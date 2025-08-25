@@ -1,12 +1,3 @@
-??????????????????hi b.txt
-is modified
- dev2
-lsjdlsjdlsjdls
-h
-in other branch
+this is b.xt from dev2
 
-merge
-devops
-############################
-#########################3
 
