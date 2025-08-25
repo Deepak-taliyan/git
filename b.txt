@@ -1,8 +1,2 @@
-hi b.txt
-is modified
- dev2
-h
-in other branch
+this is b.txt from devops2
 
-merge
-devops
