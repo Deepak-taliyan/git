@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 hi this is b.txt from dev2
-=======
 hi this is b.txt from devops
->>>>>>> devops
 
