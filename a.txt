@@ -1,3 +1,4 @@
-hi a.txt from dev2
+
+>>>>>>> devops
 hi this is a.txt from devops
 
