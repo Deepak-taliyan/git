@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 this is b.txt from devops2
+=======
+this is b.xt from dev2
+
+>>>>>>> dev2
 
